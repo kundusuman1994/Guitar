@@ -83,5 +83,8 @@ Fingerstyle guitar takes patience, but consistent practice will gradually develo
 
 
 
+![Fingerstyle Basics](images/HL-152078First_BIG_3.png)
+
+
 
 
