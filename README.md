@@ -74,3 +74,8 @@ Once the basics are comfortable, start learning complete fingerstyle arrangement
 ---
 
 Fingerstyle guitar takes patience, but consistent practice will gradually develop coordination and musical independence between the thumb and fingers.
+
+
+
+
+![Fingerstyle Basics](images/il_1080xN.5136189771_c22w.webp)
