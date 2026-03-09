@@ -79,3 +79,78 @@ Fingerstyle guitar takes patience, but consistent practice will gradually develo
 
 
 ![Fingerstyle Basics](images/il_1080xN.5136189771_c22w.webp)
+
+
+
+
+
+
+
+
+## Fingerstyle Practice – Blowin' in the Wind
+
+Right hand pattern:
+
+p – i – m – i
+
+Thumb plays the bass note, while index and middle play the higher strings.
+
+### Chord Progression (Key of G)
+
+G  →  C  →  G  
+G  →  C  →  D  
+
+### Fingerstyle Pattern
+
+For each chord use an alternating bass.
+
+Example (G chord)
+
+Pattern: p – i – m – i  
+Strings: 6 – 3 – 2 – 3
+
+```
+e|---|
+B|-o-|
+G|---|
+D|---|
+A|---|
+E|-o-|
+```
+
+Example (C chord)
+
+Pattern: p – i – m – i  
+Strings: 5 – 3 – 2 – 3
+
+```
+e|---|
+B|-o-|
+G|---|
+D|-o-|
+A|-o-|
+E|---|
+```
+
+Example (D chord)
+
+Pattern: p – i – m – i  
+Strings: 4 – 3 – 2 – 3
+
+```
+e|-o-|
+B|-o-|
+G|-o-|
+D|---|
+A|---|
+E|---|
+```
+
+### Practice Method
+
+1. Play bass with the thumb.
+2. Play the upper strings with index and middle.
+3. Keep the bass alternating steadily.
+4. Practice slowly until the thumb and fingers move independently.
+
+Goal: Bass line steady, melody floating above it.
