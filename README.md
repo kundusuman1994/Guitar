@@ -1,5 +1,6 @@
 # Guitar
 
+
 ## Fingerstyle Guitar Learning Roadmap
 
 Fingerstyle guitar is a technique where the player plucks the strings directly with the fingers instead of using a pick. It allows the guitarist to play **bass, harmony, and melody simultaneously**, making it possible to perform full arrangements on a single guitar.
