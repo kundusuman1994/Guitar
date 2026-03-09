@@ -2,6 +2,7 @@
 
 
 ![Fingerstyle Basics](images/basics-1-mob.png)
+![Fingerstyle Basics](images/7492275_orig.jpg)
 
 
 ## Fingerstyle Guitar Learning Roadmap
