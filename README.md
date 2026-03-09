@@ -3,6 +3,9 @@
 
 ![Fingerstyle Basics](images/basics-1-mob.png)
 ![Fingerstyle Basics](images/7492275_orig.jpg)
+![Fingerstyle Basics](images/fingerpicking-hand-position-pinky.jpg)
+![Fingerstyle Basics](images/fingerstyle-guitar.webp)
+
 
 
 ## Fingerstyle Guitar Learning Roadmap
